@@ -5,7 +5,6 @@
     <title></title>
   </head>
   <body>
-  <p>Test: "java.util.Date" is inside by default</p>
-    Time: <%= java.util.Date %>
+
   </body>
 </html>
